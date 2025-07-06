@@ -1914,7 +1914,7 @@ const struct Item gItemsInfo[] =
 
     [ITEM_RARE_CANDY] =
     {
-        .name = _("Rare Candy"),
+        .name = _("Infinite Candy"),
         .pluralName = _("Rare Candies"),
         .price = (I_PRICE >= GEN_7) ? 10000 : 4800,
         .description = COMPOUND_STRING(
